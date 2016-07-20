@@ -1,5 +1,5 @@
 applications.application_form:
-  path: '/applications/apply'
+  path: '/apply'
   defaults:
     _title: 'Application Form'
     _form: '\Drupal\applications\Form\ApplicationForm'
