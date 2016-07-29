@@ -1,8 +1,16 @@
-# Applications
+# Applications.
 
 Example of a drupal 8 form
 
-Add this to modules and install.
+# Installation.
+````bash
+cd path/to/drupal/modules
+
+git clone https://github.com/AlexanderCannonAcn/application
+```
+Install to drupal then enable module in <em>Extend</em> menu.
+
+#Routes.
 
 Default route /apply
 
