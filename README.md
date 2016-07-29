@@ -1,4 +1,4 @@
-# applications
+# Applications
 
 Example of a drupal 8 form
 
